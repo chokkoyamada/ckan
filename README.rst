@@ -1,5 +1,6 @@
 CKAN: オープンソースのデータポータルソフトウェア
 ==========================================
+hoge
 
 .. image:: https://secure.travis-ci.org/okfn/ckan.png?branch=master
     :target: http://travis-ci.org/okfn/ckan
